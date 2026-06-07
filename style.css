@@ -58,7 +58,7 @@ li:before {
 table {
   border-spacing: 0;
   border-collapse: collapse;
-  border: solid 1px #e8fffd;
+  border: solid 1px #00bfff;
   min-width: 70%;
 }
 tr {
@@ -72,6 +72,6 @@ th {
   color: #fff;
 }
 th, td {
-  border: solid 1px #e8fffd;
+  border: solid 1px #00bfff;
   padding: 0.5rem;
 }
