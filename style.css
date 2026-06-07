@@ -1,7 +1,3 @@
-body{
-  background:red;
-}
-
 /* --------------------
         全体
 -------------------- */
@@ -78,4 +74,8 @@ th {
 th, td {
   border: solid 1px #00bfff;
   padding: 0.5rem;
+}
+
+body{
+  background:red;
 }
