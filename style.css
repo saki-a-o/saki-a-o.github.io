@@ -65,7 +65,7 @@ tr {
   background-color: #fff;
 }
 tr:nth-child(2n) {
-  background-color: #f0f8ff;
+  background-color: #e0ffff;
 }
 th {
   background: var(--theme-color);
